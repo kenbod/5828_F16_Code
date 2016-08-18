@@ -1,2 +1,3 @@
 # 5828_F16_Code
-Example Source Code for the Fall 2016 version of Ken Anderson's Foundations of Software Engineering class
+
+This repo will be updated during the Fall 2016 semester with the sample code discussed during lecture.
